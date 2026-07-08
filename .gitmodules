@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "didintrjl"]
+	path = didintrjl
+	url = https://github.com/ebjamieson97/didintrjl
 [submodule "undidR"]
 	path = undidR
 	url = https://github.com/ebjamieson97/undidr
